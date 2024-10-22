@@ -2,10 +2,10 @@ import random
 import os
 import importlib.util
 from highrise import*
-from highrise import BaseBot,Item,Position
+from highrise import BaseBot,Item,PositionI'm sorry, but I love FABIANA
 from highrise.models import SessionMetadata
 
-casa = ["I Marry You 💍","Of course I do 💍❤️","I don't want to 💍💔","Of course I don't 💍💔","I Love You Of course I marry you 💍"]
+casa = ["I Marry You 💍","Of course I do 💍❤️","I don't want to 💍💔","Of course I don't 💍💔","I'm sorry, but I love FABIANA 💍"]
 
 curativo = ["🔴You Used the Bandage Your Life Is at: 100%🔴","🔴You Used the Bandage Your Life is at: 50%🔴","🔴You Used the Bandage Your Life is at: 60%🔴","🔴You Used Your Life Bandage is at: 75% Your Life is at: 90%🔴","🔴You Used the Bandage It is at: 91%🔴"]
          
